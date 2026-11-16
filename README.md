@@ -2,7 +2,9 @@
 
 A frantic dishwasher-stacking arcade game. Falling-block stacking, match-3 "nesting", and a kitchen schedule to keep up with.
 
-Open `index.html` in a browser. It's a single self-contained file with no build step, no assets and no network. Add `?seed=123` to the URL for a repeatable game.
+**Play it: https://dbolser.github.io/DishSmash/**
+
+Or open `index.html` in a browser. It's a single self-contained file with no build step, no assets and no network. Add `?seed=123` to the URL for a repeatable game.
 
 ## How to play
 
